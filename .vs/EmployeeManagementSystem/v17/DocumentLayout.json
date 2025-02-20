@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zaid J Adam\\Desktop\\Projects\\Employee Management C#\\Employee-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5556CBD3-0B21-4B40-9E8B-ECE89A9A0536}|EmployeeManagementSystem1\\EmployeeManagementSystem.csproj|c:\\users\\zaid j adam\\desktop\\projects\\employee management c#\\employee-management-system\\employeemanagementsystem1\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5556CBD3-0B21-4B40-9E8B-ECE89A9A0536}|EmployeeManagementSystem1\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem1\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Zaid J Adam\\Desktop\\Projects\\Employee Management C#\\Employee-Management-System\\EmployeeManagementSystem1\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem1\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\Zaid J Adam\\Desktop\\Projects\\Employee Management C#\\Employee-Management-System\\EmployeeManagementSystem1\\EmployeeDetails.cs",
+              "RelativeToolTip": "EmployeeManagementSystem1\\EmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T01:45:37.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

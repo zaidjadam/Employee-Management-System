@@ -1,0 +1,63 @@
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.exe.config
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.exe
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.pdb
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.dll
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EntityFramework.dll
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.pdb
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.dll.config
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EntityFramework.xml
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.AddEmployee.resources
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.DisplayChart.resources
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.EmployeeSysMainForm.resources
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.GeneratePayRoll.resources
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.exe
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.pdb
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.exe.config
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.exe
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.pdb
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.dll
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.dll
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.pdb
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.dll.config
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.xml
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.AddEmployee.resources
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.DisplayChart.resources
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.EmployeeSysMainForm.resources
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.GeneratePayRoll.resources
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.Properties.Resources.resources
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.exe
+C:\Users\Zaid J Adam\Desktop\Employee Management C#\Employee Mgmt C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.pdb
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.exe.config
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.exe
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem1.pdb
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.dll
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.dll
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.pdb
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EmployeeManagementSystem.Data.dll.config
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.xml
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.AddEmployee.resources
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.DisplayChart.resources
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.EmployeeSysMainForm.resources
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.GeneratePayRoll.resources
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.Properties.Resources.resources
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\Employee.A4622930.Up2Date
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.exe
+C:\Users\Zaid J Adam\Desktop\Projects\Employee Management C#\Employee-Management-System\EmployeeManagementSystem1\obj\Debug\EmployeeManagementSystem1.pdb
